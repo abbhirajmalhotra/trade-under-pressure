@@ -26,4 +26,4 @@ How do core concepts such as tariffs, balance of payments, exchange rates, elast
 Based on secondary data from the RBI, the Press Information Bureau, UN DESA and news and trade-data sources. Events were still unfolding in July 2026, so figures may be revised.
 
 ## Files
-- `Economics_Project_Trade_Under_Pressure.docx`: full project report
+- `Economics_Project_Trade_Under_Pressure.pdf`: full project report (PDF)
